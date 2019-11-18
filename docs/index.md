@@ -3,10 +3,10 @@
 **Date:** *11.14.2019*
 
 
-##Introduction
+## Introduction
 
-##Topic 1
+## Topic 1
 
-###Subtopic 1
+### Subtopic 1
 
-##Summary
+## Summary
