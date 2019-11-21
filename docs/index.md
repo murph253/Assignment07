@@ -61,12 +61,12 @@ When you open the file where you pickled your objects, it will look like the fol
 
 ![Pickle Contents](https://github.com/murph253/Assignment07/blob/master/docs/Figure%201.2.PNG "Pickle Contents")
 
-The pickle module saved my data into a byte string and into a serialized object structure. The appearance of the file would lead some to belive that this file is now secure, but its important to remember that you should never open a pickled file from an untrusted source!
+The pickle module saved my data into a byte string and into a serialized object structure. The appearance of the file would lead some to beleive that this file is now secure, but its important to remember that you should never open a pickled file from an untrusted source!
 
 ## Errors and Handling Exceptions
 The two most distinguishable kinds of errors are syntax and exceptions. A syntax error occurs when Python is unable to understand a line of code, they are almost always fatal. The good thing is that most syntax errors are just typos or incorrect indents. These are all highlighted and called to your attention in PyCharm or IDLE. There really is no way around these errors, so stay on the lookout. Because these errors are highlighted and pointed out to you in PyCharm or IDLE, we don't need to discuss them as much as exceptions and handling ex
 
-Exceptions are errors that are detected during execution and can be written into your own Python programs. Some common types of exceptions are NameError, ValueError and TypeError. Have you ever inputted a string into an integer input? If you have you probably encoutered a ValueError. 
+Exceptions are errors that are detected during execution and can be written into your own Python programs. Some common types of exceptions are NameError, ValueError and TypeError. Have you ever inputted a string into an integer input? If you have you probably encountered a ValueError. 
 
 Exceptions and Errors are nothing to be ashamed of. It happens to all of us. It's important to understand them not only for your sanity but to assist your programs and your ability to grow as a programmer. 
 
