@@ -109,3 +109,8 @@ and its output:
 
 ## Summary
 Syntax errors are showstoppers, but exceptions can be either a complete pain, or a way to guide the user of your program through your program, quickly and successfully. There are hundreds of pages of data regarding the pickle module, errors and exception handling. If you have one takeaway form this document I hope that its how you can incorporate exception handling into your program. 
+
+Here is a list of some great resources I used for this assignment:
+http://conquerprogramming.com/blog/3-Exceptions.html
+https://docs.python.org/3/tutorial/errors.html
+https://www.tutorialspoint.com/python/python_modules.htm
